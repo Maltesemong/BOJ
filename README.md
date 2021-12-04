@@ -1,2 +1,2 @@
 # BOJ
-BOJ python
+BOJ solved by python
